@@ -1,0 +1,22 @@
+#inpage_menu {
+    position: fixed;
+    float: right;
+    right: 10px;
+    width: 15%;
+    text-align: right;
+    /* background-color: #f2f2f2; */
+}
+
+#inpage_menu a{
+    padding: 5px;
+    color: #000000 !important;
+    display: block;
+}
+
+#inpage_menu span.inmenu_dot{
+    font-size: 0.50em;
+}
+
+#inpage_menu b{
+    padding: 5px;
+}
